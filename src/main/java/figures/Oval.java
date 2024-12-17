@@ -1,6 +1,5 @@
 package figures;
 
-import com.example.java_2_lab_2.Drawable;
 import javafx.scene.canvas.GraphicsContext;
 import javafx.scene.transform.Rotate;
 

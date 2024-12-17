@@ -1,4 +1,4 @@
-package com.example.java_2_lab_2;
+package figures;
 
 import javafx.scene.canvas.GraphicsContext;
 
